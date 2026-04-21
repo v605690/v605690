@@ -54,7 +54,7 @@
     <td width="50%" valign="top">
       <h3 align="center">CLI-Inventory Management System</h3>
       <p align="center">
-        Lightweight Terminal Interface for Real-Time Inventory Tracking | Engineered with a Java Full Stack (Spring Boot & PostgreSQL) to provide low-overhead, high-performance system monitoring and stock management in Unix-based environments.
+        Lightweight Terminal Interface for Real-Time Inventory Tracking | Engineered with a Java & PostgreSQL to provide low-overhead, high-performance system monitoring and stock management in Unix-based environments.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
