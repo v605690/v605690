@@ -76,6 +76,8 @@
 - [SQL & Databases (MySQL) | 40-Hour Software Engineering Course](https://codingnomads.com/certificates/afd0f90e56cf456c93793ed9e543cf83)
 - [Java 301 - Advanced Concepts | 100-Hour Software Engineering Course](https://codingnomads.com/certificates/53656958fb504378983c13bcd078d142)
 - [Advanced Java + Spring Framework | 225-Hour Software Engineering Course]()
+- [HackerRank Java Basic Skill Certification Test]()
+  (https://www.hackerrank.com/certificates/iframe/888bdcd8da08)
 
 ---
 
