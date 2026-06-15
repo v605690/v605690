@@ -77,6 +77,7 @@
 - [Java 301 - Advanced Concepts | 100-Hour Software Engineering Course](https://codingnomads.com/certificates/53656958fb504378983c13bcd078d142)
 - [Advanced Java + Spring Framework | 225-Hour Software Engineering Course]()
 - [HackerRank Java Basic Skill Certification Test](https://www.hackerrank.com/certificates/iframe/888bdcd8da08)
+- [Spring Certified Professional 2024 v2](https://www.credly.com/badges/debe0df3-b30c-4bac-b543-1872ad4a1207)
 
 ---
 
